@@ -1,0 +1,16 @@
+.team {
+    margin-top: 100px;
+}
+
+.header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    padding: 20px;
+}
+
+.button {
+    float: right;
+    margin-bottom: 30px;
+}

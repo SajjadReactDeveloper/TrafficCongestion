@@ -1,0 +1,31 @@
+.add {
+    margin-top: 100px;
+}
+
+.header {
+    margin-bottom: 30px;
+}
+
+.bodys{
+    font-family: 'Montserrat', 'sans-serif';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.overlay-containers {
+    background-image: url('../../../public/b.jpg');
+    background-size: cover;
+}
+
+.overlay-containerss {
+    background-image: url('../../../public/d.jpg');
+    background-size: contain;
+}
+
+.overlay-containersss {
+    background-image: url('../../../public/e.jpg');
+    background-size: contain;
+}
